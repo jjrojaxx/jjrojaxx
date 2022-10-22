@@ -37,11 +37,11 @@
 </p>
 <table width="100%"> 
  <tr>
-   <td width="50%">
+   <td width="60%">
  <a href="https://github.com/jjrojaxx/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jjrojaxx&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Anurag's github stats" />
 </a>
   </td>
-  <td width="50%">
+  <td width="40%">
 <a href="https://github.com/jjrojaxx/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjrojaxx&layout=compact&theme=dark&hide_border=true" /></a>
   </td>
 </table>  
