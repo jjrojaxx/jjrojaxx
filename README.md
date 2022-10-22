@@ -12,10 +12,10 @@
   <td width="50%">
 
 &nbsp;<p align="center">Contact me through my social networks 👋👋👋<br/><br/>
-    <a href=""> <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-blueviolet" /> </a>
-    <a href=""> <img alt="linkedin" src="https://img.shields.io/badge/-linkedin-informational" /> </a>
-    <a href=""> <img alt="Github" src="https://img.shields.io/badge/-Github-orange" /> </a>
-    <a href=""> <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-blue" /> </a>
+    <a href="https://www.instagram.com/joseph_leal200/"> <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-blueviolet" /> </a>
+    <a href="https://www.linkedin.com/in/joseph-leal-d2000/"> <img alt="linkedin" src="https://img.shields.io/badge/-linkedin-informational" /> </a>
+    <a href="https://github.com/jjrojaxx"> <img alt="Github" src="https://img.shields.io/badge/-Github-orange" /> </a>
+    <a href="https://twitter.com/jjrojaxx"> <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-blue" /> </a>
   </p>
   </td>
 </table>
