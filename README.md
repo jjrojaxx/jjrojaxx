@@ -1,4 +1,7 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1643515023/10521/meow_code.gif?1643515023" width="30"/> Hey! Nice to see you.</h1>
+<h1 align="center">
+  welcome to my profile
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1>
 
 
 <p>Welcome to my page!!! </br> I'm Joseph, front-end developer from <b>Venezuela</b>  <img src="https://emojis.slackmojis.com/emojis/images/1622189613/41938/venezuela.gif?1622189613" width="20"/></p>
