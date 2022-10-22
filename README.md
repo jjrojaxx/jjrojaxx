@@ -35,5 +35,14 @@
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
-
- <a href="https://github.com/jjrojaxx/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jjrojaxx&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Anurag's github stats" /></a>
+<table width="100%"> 
+ <tr>
+   <td width="50%">
+ <a href="https://github.com/jjrojaxx/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jjrojaxx&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Anurag's github stats" />
+</a>
+  </td>
+  <td width="50%">
+<a href="https://github.com/jjrojaxx/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjrojaxx&layout=compact&theme=dark&hide_border=true" /></a>
+  </td>
+</table>  
+  
