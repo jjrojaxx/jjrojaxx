@@ -45,4 +45,4 @@
 <a href="https://github.com/jjrojaxx/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjrojaxx&layout=compact&theme=dark&hide_border=true" /></a>
   </td>
 </table>  
-  
+<a href="https://github.com/jjrojaxx/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=jjrojaxx&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
